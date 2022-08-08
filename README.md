@@ -14,4 +14,4 @@
 
 **Screenshot**
 
-![interior design](/screenshot/project-10.png)
+![interior design](/screenshot/design.png)
